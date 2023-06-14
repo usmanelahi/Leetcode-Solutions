@@ -1,3 +1,5 @@
+//Used a pointers method
+
 class Solution {
 public:
     int unequalTriplets(vector<int>& nums) {
